@@ -1,0 +1,34 @@
+.biankuang { border-width: 0px;  
+    border-style: solid;  
+    border-color: gray;  
+    border-radius: 5px;} 
+    body {width:960px;
+    margin-left:auto;
+    margin-right:auto;}
+    .huigui-end {clear:both;}
+.zifu {float:right;}
+    div { border-width: 0px;  
+    border-style: solid;  
+    border-color: gray;  
+    border-radius: 5px;  
+    margin: 5px; }
+    div.zipai  {border-width:0px;
+    border-style:solid;
+    border-color:gray;
+    border-radius:5px;}
+    #center {display:table;
+    width:948px;}
+    #nav,#content {display:table-cell}
+    #nav{width:150px;}
+    img {float:left}
+    div.huigui {clear:both;}
+     div.beida  {border-width:0px;
+    border-style:solid;
+    border-color:gray;
+    border-radius:5px;}
+    div.biaoge {padding-left: 250px:;
+    padding-bottom:0px;}
+    h1.mingzi {padding-left:280px}
+        body {background-color: beige;}
+        table.nav {font-weight:bold;}
+        table.nav tr td {padding: 30px}
